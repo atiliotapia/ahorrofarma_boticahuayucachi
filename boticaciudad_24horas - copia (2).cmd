@@ -1,0 +1,1 @@
+git remote add origin git@github.com:atiliotapia/ahorrofarma_boticahuayucachi.git

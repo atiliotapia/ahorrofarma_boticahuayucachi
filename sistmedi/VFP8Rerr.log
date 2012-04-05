@@ -244,7 +244,3 @@ Fatal error: Exception code=C0000005 @ 30/06/2011 03:23:17 PM. Error log file: C
 	Called from -  inicio line 123  {C:\SIGEF\sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
 
 
-Fatal error: Exception code=C0000005 @ 17/09/2011 03:12:23 PM. Error log file: C:\SIGEF\sistmedi\VFP8Rerr.log
-	Called from -  _2r61eg1zj line 558  {C:\SIGEF\sistmedi\menudist.mpr menudist.mpx}
-	Called from -  ON...  line 0  { }
-	Called from -  inicio line 123  {C:\SIGEF\sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
