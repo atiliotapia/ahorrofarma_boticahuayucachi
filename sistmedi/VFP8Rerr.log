@@ -10,3 +10,241 @@ Fatal error: Exception code=C0000005 @ 09/09/2008 06:39:26 PM. Error log file: C
 	Called from -  ON...  line 0  { }
 	Called from -  inicio line 112  {C:\SIGEF\Sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
 
+
+Fatal error: Exception code=C0000005 @ 22/10/2008 06:03:07 PM. Error log file: C:\SIGEF\sistmedi\VFP8Rerr.log
+	Called from -  formset1.form1.command7.click line 2  {c:\sigef\sistmedi\pnttingrdistrib.sct c:\sigef\sistmedi\pnttingrdistrib.sct}
+	Called from -  _2fg01waz3 line 553  {C:\SIGEF\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 112  {C:\SIGEF\Sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 02/03/2009 12:51:26 PM. Error log file: C:\SIGEF\sistmedi\VFP8Rerr.log
+	Called from -  _2fg01waz3 line 553  {C:\SIGEF\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 112  {C:\SIGEF\Sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 28/05/2009 09:18:53 AM. Error log file: C:\SIGEF\sistmedi\VFP8Rerr.log
+	Called from -  _2fg01waz3 line 553  {C:\SIGEF\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 112  {C:\SIGEF\Sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 13/11/2009 06:55:23 PM. Error log file: C:\SIGEF\sistmedi\VFP8Rerr.log
+	Called from -  _2r61eg1zj line 558  {C:\SIGEF\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {C:\SIGEF\Sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 18/11/2009 07:11:01 PM. Error log file: C:\SIGEF\sistmedi\VFP8Rerr.log
+	Called from -  _2r61eg1zj line 558  {C:\SIGEF\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {C:\SIGEF\Sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 02/01/2010 08:31:05 AM. Error log file: C:\SIGEF\sistmedi\VFP8Rerr.log
+	Called from -  _2r61eg1zj line 558  {C:\SIGEF\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {C:\SIGEF\Sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 13/01/2010 05:28:44 PM. Error log file: C:\SIGEF\sistmedi\VFP8Rerr.log
+	Called from -  _2r61eg1zj line 558  {C:\SIGEF\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {C:\SIGEF\Sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 15/01/2010 06:12:40 PM. Error log file: C:\SIGEF\sistmedi\VFP8Rerr.log
+	Called from -  _2r61eg1zj line 558  {C:\SIGEF\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {C:\SIGEF\Sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 20/01/2010 10:13:08 AM. Error log file: C:\SIGEF\sistmedi\VFP8Rerr.log
+	Called from -  formset1.form1.text4.valid line 67  {c:\sigef\sistmedi\pnttingrdistrib.sct c:\sigef\sistmedi\pnttingrdistrib.sct}
+	Called from -  _2r61eg1zj line 558  {C:\SIGEF\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {C:\SIGEF\Sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 20/01/2010 12:42:21 PM. Error log file: C:\SIGEF\sistmedi\VFP8Rerr.log
+	Called from -  formset1.form1.text4.valid line 67  {c:\sigef\sistmedi\pnttingrdistrib.sct c:\sigef\sistmedi\pnttingrdistrib.sct}
+	Called from -  _2r61eg1zj line 558  {C:\SIGEF\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {C:\SIGEF\Sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 23/01/2010 03:03:47 PM. Error log file: C:\SIGEF\sistmedi\VFP8Rerr.log
+	Called from -  formset1.form1.text4.valid line 67  {c:\sigef\sistmedi\pnttingrdistrib.sct c:\sigef\sistmedi\pnttingrdistrib.sct}
+	Called from -  _2r61eg1zj line 558  {C:\SIGEF\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {C:\SIGEF\Sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 23/01/2010 03:08:48 PM. Error log file: C:\SIGEF\sistmedi\VFP8Rerr.log
+	Called from -  formset1.form1.text4.valid line 67  {c:\sigef\sistmedi\pnttingrdistrib.sct c:\sigef\sistmedi\pnttingrdistrib.sct}
+	Called from -  _2r61eg1zj line 558  {C:\SIGEF\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {C:\SIGEF\Sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 02/03/2010 05:51:12 PM. Error log file: C:\SIGEF\sistmedi\VFP8Rerr.log
+	Called from -  formset1.form1.command7.click line 2  {c:\sigef\sistmedi\pnttingrdistrib.sct c:\sigef\sistmedi\pnttingrdistrib.sct}
+	Called from -  _2r61eg1zj line 558  {C:\SIGEF\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {C:\SIGEF\Sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 02/03/2010 05:55:24 PM. Error log file: C:\SIGEF\sistmedi\VFP8Rerr.log
+	Called from -  _2r61eg1zj line 558  {C:\SIGEF\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {C:\SIGEF\Sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 11/03/2010 06:28:44 PM. Error log file: C:\SIGEF\sistmedi\VFP8Rerr.log
+	Called from -  formset1.form1.command7.click line 2  {c:\sigef\sistmedi\pnttingrdistrib.sct c:\sigef\sistmedi\pnttingrdistrib.sct}
+	Called from -  _2r61eg1zj line 558  {C:\SIGEF\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {C:\SIGEF\Sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 11/03/2010 06:34:30 PM. Error log file: C:\SIGEF\sistmedi\VFP8Rerr.log
+	Called from -  formset1.form1.command7.click line 2  {c:\sigef\sistmedi\pnttingrdistrib.sct c:\sigef\sistmedi\pnttingrdistrib.sct}
+	Called from -  _2r61eg1zj line 558  {C:\SIGEF\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {C:\SIGEF\Sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 11/03/2010 06:42:23 PM. Error log file: C:\SIGEF\sistmedi\VFP8Rerr.log
+	Called from -  _2r61eg1zj line 558  {C:\SIGEF\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {C:\SIGEF\Sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 05/04/2010 02:43:01 PM. Error log file: C:\SIGEF\sistmedi\VFP8Rerr.log
+	Called from -  _2r61eg1zj line 558  {C:\SIGEF\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {C:\SIGEF\Sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 05/04/2010 02:52:48 PM. Error log file: C:\SIGEF\sistmedi\VFP8Rerr.log
+	Called from -  _2r61eg1zj line 558  {C:\SIGEF\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {C:\SIGEF\Sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 05/04/2010 07:40:39 PM. Error log file: C:\SIGEF\sistmedi\VFP8Rerr.log
+	Called from -  _2r61eg1zj line 558  {C:\SIGEF\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {C:\SIGEF\Sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 04/05/2010 04:52:28 AM. Error log file: C:\SIGEF\sistmedi\VFP8Rerr.log
+	Called from -  _2r61eg1zj line 558  {C:\SIGEF\sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {C:\SIGEF\sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 04/05/2010 04:53:36 AM. Error log file: C:\SIGEF\sistmedi\VFP8Rerr.log
+	Called from -  _2r61eg1zj line 558  {C:\SIGEF\sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {C:\SIGEF\sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 07/05/2010 12:13:49 PM. Error log file: C:\SIGEF\sistmedi\VFP8Rerr.log
+	Called from -  _2r61eg1zj line 558  {C:\SIGEF\sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {C:\SIGEF\sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 08/05/2010 07:59:40 PM. Error log file: C:\SIGEF\sistmedi\VFP8Rerr.log
+	Called from -  _2r61eg1zj line 558  {C:\SIGEF\sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {C:\SIGEF\sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 18/06/2010 02:57:11 PM. Error log file: C:\SIGEF\sistmedi\VFP8Rerr.log
+	Called from -  formset1.form1.command7.click line 2  {c:\sigef\sistmedi\pnttingrdistrib.sct c:\sigef\sistmedi\pnttingrdistrib.sct}
+	Called from -  _2r61eg1zj line 558  {C:\SIGEF\sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {C:\SIGEF\sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 16/09/2010 12:30:38 PM. Error log file: C:\SIGEF\sistmedi\VFP8Rerr.log
+	Called from -  formset1.form1.text4.valid line 67  {c:\sigef\sistmedi\pnttingrdistrib.sct c:\sigef\sistmedi\pnttingrdistrib.sct}
+	Called from -  _2r61eg1zj line 558  {C:\SIGEF\sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {C:\SIGEF\sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 22/09/2010 05:01:44 PM. Error log file: C:\SIGEF\sistmedi\VFP8Rerr.log
+	Called from -  formset1.form1.command7.click line 2  {c:\sigef\sistmedi\pnttingrdistrib.sct c:\sigef\sistmedi\pnttingrdistrib.sct}
+	Called from -  _2r61eg1zj line 558  {C:\SIGEF\sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {C:\SIGEF\sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 02/10/2010 08:04:33 PM. Error log file: C:\SIGEF\sistmedi\VFP8Rerr.log
+	Called from -  _2r61eg1zj line 558  {C:\SIGEF\sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {C:\SIGEF\sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 31/10/2010 03:11:14 PM. Error log file: C:\SIGEF\sistmedi\VFP8Rerr.log
+	Called from -  _2r61eg1zk line 580  {C:\SIGEF\sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {C:\SIGEF\sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 07/12/2010 06:01:01 PM. Error log file: C:\SIGEF\sistmedi\VFP8Rerr.log
+	Called from -  formset1.form1.text4.valid line 67  {c:\sigef\sistmedi\pnttingrdistrib.sct c:\sigef\sistmedi\pnttingrdistrib.sct}
+	Called from -  _2r61eg1zj line 558  {C:\SIGEF\sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {C:\SIGEF\sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 03/02/2011 11:54:08 AM. Error log file: C:\SIGEF\sistmedi\VFP8Rerr.log
+	Called from -  form1.txtcodi_labo.valid line 20  {c:\sigef\sistmedi\pnttnuevo.sct c:\sigef\sistmedi\pnttnuevo.sct}
+	Called from -  formset1.form1.command7.click line 2  {c:\sigef\sistmedi\pnttingrdistrib.sct c:\sigef\sistmedi\pnttingrdistrib.sct}
+	Called from -  _2r61eg1zj line 558  {C:\SIGEF\sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {C:\SIGEF\sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 01/03/2011 04:58:58 PM. Error log file: C:\SIGEF\sistmedi\VFP8Rerr.log
+	Called from -  _2r61eg1zj line 558  {C:\SIGEF\sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {C:\SIGEF\sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 25/03/2011 01:16:38 PM. Error log file: C:\SIGEF\sistmedi\VFP8Rerr.log
+	Called from -  _2r61eg1zj line 558  {C:\SIGEF\sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {C:\SIGEF\sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 25/03/2011 01:24:54 PM. Error log file: C:\SIGEF\sistmedi\VFP8Rerr.log
+	Called from -  formset1.form1.command7.click line 2  {c:\sigef\sistmedi\pnttingrdistrib.sct c:\sigef\sistmedi\pnttingrdistrib.sct}
+	Called from -  _2r61eg1zj line 558  {C:\SIGEF\sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {C:\SIGEF\sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 07/06/2011 06:43:43 PM. Error log file: C:\SIGEF\sistmedi\VFP8Rerr.log
+	Called from -  formset1.form1.command7.click line 2  {c:\sigef\sistmedi\pnttingrdistrib.sct c:\sigef\sistmedi\pnttingrdistrib.sct}
+	Called from -  _2r61eg1zj line 558  {C:\SIGEF\sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {C:\SIGEF\sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 30/06/2011 03:23:17 PM. Error log file: C:\SIGEF\sistmedi\VFP8Rerr.log
+	Called from -  formset1.form1.command7.click line 2  {c:\sigef\sistmedi\pnttingrdistrib.sct c:\sigef\sistmedi\pnttingrdistrib.sct}
+	Called from -  _2r61eg1zj line 558  {C:\SIGEF\sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {C:\SIGEF\sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 17/09/2011 03:12:23 PM. Error log file: C:\SIGEF\sistmedi\VFP8Rerr.log
+	Called from -  _2r61eg1zj line 558  {C:\SIGEF\sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {C:\SIGEF\sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
