@@ -1,0 +1,68 @@
+****SELECCIONANDO DATOS****
+USE c:\sigef07\facturar\medicina
+PACK
+USE c:\sigef07\facturar\clientes
+PACK
+USE c:\sigef07\facturar\convenio
+PACK
+USE c:\sigef07\facturar\paciconv
+PACK
+USE c:\sigef07\sistmedi\datos\clientes
+PACK
+USE c:\sigef07\sistmedi\datos\gruptera
+PACK
+USE c:\sigef07\sistmedi\datos\laborato
+PACK
+USE c:\sigef07\sistmedi\datos\maesmedi
+PACK
+USE c:\sigef07\sistmedi\datos\proveedo
+PACK
+USE c:\sigef07\sistmedi\datos\tipomedi
+PACK
+USE c:\sigef07\sistmedi\datos\tpcpingr
+PACK
+USE c:\sigef07\sistmedi\datos\tpcpsali
+PACK
+
+
+
+
+
+
+
+****TRANSFIRIENDO DATOS****
+USE medicina
+APPEND FROM c:\sigef07\facturar\medicina
+USE clientes
+APPEND FROM c:\sigef07\facturar\clientes
+USE convenio
+APPEND FROM c:\sigef07\facturar\convenio
+USE paciconv
+APPEND FROM c:\sigef07\facturar\paciconv
+
+
+
+USE ..\sistmedi\datos\clientes
+APPEND FROM c:\sigef07\sistmedi\datos\clientes
+USE ..\sistmedi\datos\gruptera
+APPEND FROM c:\sigef07\sistmedi\datos\gruptera
+USE ..\sistmedi\datos\laborato
+APPEND FROM c:\sigef07\sistmedi\datos\laborato
+USE ..\sistmedi\datos\maesmedi
+APPEND FROM c:\sigef07\sistmedi\datos\maesmedi
+USE ..\sistmedi\datos\proveedo
+APPEND FROM c:\sigef07\sistmedi\datos\proveedo
+USE ..\sistmedi\datos\tipomedi
+APPEND FROM c:\sigef07\sistmedi\datos\tipomedi
+USE ..\sistmedi\datos\tpcpingr
+APPEND FROM c:\sigef07\sistmedi\datos\tpcpingr
+USE ..\sistmedi\datos\tpcpsali
+APPEND FROM c:\sigef07\sistmedi\datos\tpcpsali
+
+
+
+
+
+
+
+
